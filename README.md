@@ -1,7 +1,14 @@
-# 👋 Hi, I'm Jen <br>
+<br>
 
-# 💫 About Me:
- 📊🔬🧠🤖⚙️🔮🎯 Shaping my career as a Data Scientist. <br>💻 Here you'll find my experiments, projects, and growth path. <br>☕ Coffee lover. 
+# 👋 Hi, I'm Jen 
+<br>
+
+## 🌟 About Me  
+
+> 📊🔬🔮🎯 Shaping my career as a **Data Scientist**  
+> 💻 Exploring projects, experiments, and growth  
+> ☕ Coffee lover 
+
 
 
 # 💻 Tech Stack:
