@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Jen
 
-<!--
-**jenuzho/jenuzho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💡 About Me
+Shaping my career as a **Data Scientist**. Here you'll find my projects, experiments, and learning journey.
 
-Here are some ideas to get you started:
+☕ Coffee lover  
+🏋️ Crossfit enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages:** Python, SQL
+- **Libraries:** Pandas, NumPy, Matplotlib, scikit-learn
+- **Tools:** Jupyter Notebook, Git, VS Code, Flask
+- **Currently Learning:** Model deployment with Flask + Render
+
+## 🚀 Featured Projects
+- **[Movie Recommendation System](https://github.com/jenuzho/MOVIE-RECOMMENDATION-K-nearest-neighbors)** – Content-based recommender using KNN & cosine similarity
+- **Fraud Detection Model** – ML pipeline with feature selection, SMOTE, and Decision Trees
+- **Image Classifier** – Neural network model for image classification
+
+## 📈 GitHub Stats
+![Jen's GitHub stats](https://github-readme-stats.vercel.app/api?username=jenuzho&show_icons=true&theme=tokyonight)
+
+
