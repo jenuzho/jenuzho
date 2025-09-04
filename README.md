@@ -1,5 +1,4 @@
 # 👋 Hi, I'm Jen 
-<br>
 
 ## 🌟 About Me  
 
